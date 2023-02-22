@@ -1,2 +1,0 @@
-tps.txt
-logos.txt
